@@ -1,7 +1,7 @@
 # Bewakoof - India's best shopping app
 
 <p align="center">
-  <a href="https://myBewakoof.vercel.app">
+  <a href="https://bewakoof-firebase.vercel.app/">
     <picture>
       <img src="./public/favicon.ico" height="128">
     </picture>
@@ -11,7 +11,7 @@
 
 ## Links:
 
-- **Deployment URL:** https://myBewakoof.vercel.app
+- **Deployment URL:** https://bewakoof-firebase.vercel.app/
 
 ## About the App:
 
@@ -54,8 +54,8 @@ Bewakoof is a feature-rich shopping application that provides users with a seaml
 ### **Clone the repository:**
 
 ```bash
-git clone https://github.com/mskp/e-commerce-react-firebase
-cd e-commerce-react-firebase
+git clone https://github.com/princethk/bewakoof_firebase
+cd bewakoof_firebase
 ```
 
 ### **Install the dependencies:**
@@ -126,7 +126,7 @@ Bewakoof was developed to provide users with a seamless shopping experience, lev
 
 #### Deployment Steps
 
-1. **Fork the Repository:** https://github.com/mskp/e-commerce-react-firebase
+1. **Fork the Repository:** https://github.com/princethk/bewakoof_firebase
 2. Create a Vercel account if you haven't already.
 3. Once logged in, click on "New Project" in the Vercel dashboard.
 4. Select "Import Git Repository" and connect your GitHub account if prompted.
@@ -142,11 +142,8 @@ Bewakoof was developed to provide users with a seamless shopping experience, lev
 
 ### Collaborators:
 
-- **Sushant Pandey**
+- **Prince Thakur**
 
-  - GitHub: [https://github.com/mskp](https://github.com/mskp)
-  - Email: sushhantpandey@gmail.com
+  - GitHub: [https://github.com/princethk](https://github.com/princethk)
+  - Email: princethk787@gmail.com
 
-- **Somil Vaishya**
-  - GitHub: [https://github.com/Somilvaishya](https://github.com/Somilvaishya)
-  - Email: somilvaishya78@gmail.com
