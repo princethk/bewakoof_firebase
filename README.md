@@ -49,6 +49,12 @@ Bewakoof is a feature-rich shopping application that provides users with a seaml
 - **Responsive UI:**
   A highly responsive user interface built with Material-UI, Next-UI, and Tailwind CSS, ensuring a smooth shopping experience across all devices.
 
+  **ScreenSots:**
+  ![Screensots](./src/screenshhots/1.png)
+  ![Screensots](./src/screenshhots/2.png)
+  ![Screensots](./src/screenshhots/3.png)
+  ![Screensots](./src/screenshhots/4.png)
+
 ## How to Run:
 
 ### **Clone the repository:**
